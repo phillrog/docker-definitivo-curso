@@ -1,4 +1,4 @@
-# 01 - Tag de Imagens e Princípios de Volumes (bind)
+# 02 - Volumes - Bind
 
 Foi feito outro bind agora com uma imagem nginx.
 
