@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/modulo-5/10_.NET_Core_Console/ConsoleDockerDefinitivo/.vs/ConsoleDockerDefinitivo/v17
+/modulo-5/10_.NET_Core_Console/ConsoleDockerDefinitivo/ConsoleDockerDefinitivo/obj
