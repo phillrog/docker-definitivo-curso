@@ -1,0 +1,7 @@
+version: "3.4"
+
+services:
+    myapp:
+        image: phillrog/mod7
+        environment:
+            - prefix=hmg
