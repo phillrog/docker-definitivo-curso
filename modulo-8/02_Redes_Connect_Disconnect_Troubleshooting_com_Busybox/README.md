@@ -1,4 +1,4 @@
-# Fundamentos - Redes - 01 - Redes - Primeiros Passos
+# Fundamentos - Redes - 02 - Redes - Connect, Disconnect, Troubleshooting com Busybox
 Utilização do busybox, conjunto de ferramentas para se utilizar com containers
 quando se cria container sem informar rede e depois conectar eles na mesma rede
 
